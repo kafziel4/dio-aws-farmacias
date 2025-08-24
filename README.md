@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 23/08/2025
-Empresa: Abstergo Industries
-Responsável: Keoma Baudin
+**Data**: 23/08/2025  
+**Empresa**: Abstergo Industries  
+**Responsável**: Keoma Baudin
 
 ## Introdução
 
@@ -12,23 +12,23 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especí­ficos. A seguir, serão descritas as etapas do projeto:
 
-Etapa 1:
+### Etapa 1
 
-- Amazon S3
-- Armazenamento de dados
-- Serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade, segurança e performance. Pode ser utlizado para armazenar dados para diversos casos de uso, como data lakes, backup, arquivamento, dispositivos IoT e big data.
+- **Nome da ferramenta**: Amazon S3
+- **Foco da ferramenta**: Armazenamento de dados
+- **Descrição de caso de uso**: Serviço de armazenamento de objetos que oferece escalabilidade, disponibilidade, segurança e performance. Pode ser utlizado para armazenar dados para diversos casos de uso, como data lakes, backup, arquivamento, dispositivos IoT e big data.
 
-Etapa 2:
+### Etapa 2
 
-- Amazon Redshift
-- Data warehouse
-- Serviço de data warehouse, totalmente gerenciado, em escala de petabytes. Recursos são automaticamente provisionados e a capacidade é escalada para entregar alta performance mesmo nos cenários mais exigentes. Permite consultar dados com o editor de consultas v2 ou usar outras ferramentas de BI.
+- **Nome da ferramenta**: Amazon Redshift
+- **Foco da ferramenta**: Data warehouse
+- **Descrição de caso de uso**: Serviço de data warehouse, totalmente gerenciado, em escala de petabytes. Recursos são automaticamente provisionados e a capacidade é escalada para entregar alta performance mesmo nos cenários mais exigentes. Permite consultar dados com o editor de consultas v2 ou usar outras ferramentas de BI.
 
-Etapa 3:
+### Etapa 3
 
-- Amazon QuickSight
-- Business intelligence
-- Serviço de BI que permite entregar insights fáceis de compreender onde quer que as pessoas estejam. Se conecta com seus dados na nuvem e pode combinar dados de diferentes fontes como AWS, terceiros, big data, planilhas, SaaS e B2B, em um único dashboard.
+- **Nome da ferramenta**: Amazon QuickSight
+- **Foco da ferramenta**: Business intelligence
+- **Descrição de caso de uso**: Serviço de BI que permite entregar insights fáceis de compreender onde quer que as pessoas estejam. Se conecta com seus dados na nuvem e pode combinar dados de diferentes fontes como AWS, terceiros, big data, planilhas, SaaS e B2B, em um único dashboard.
 
 ## Conclusão
 
